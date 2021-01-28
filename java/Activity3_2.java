@@ -18,7 +18,7 @@ public class Activity3_2 {
 		// Print size of HashSet
 		System.out.println("Size of HashSet: " + hs.size());
 
-		// Remove element
+		// Remove element 
 		System.out.println("Removing A from HashSet: " + hs.remove("A"));
 		// Remove element that is not present
 		if (hs.remove("Z")) {
