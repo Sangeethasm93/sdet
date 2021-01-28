@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class Activity3_1 {
 	public static void main(String[] args) {
-		// declaring ArrayList of String objects
+		// declaring Array List of String objects
 		ArrayList<String> myList = new ArrayList<String>();
 		// Adding objects to Array List at default index
 		myList.add("Apple");
