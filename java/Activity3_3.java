@@ -11,7 +11,7 @@ public class Activity3_3 {
 		hash_map.put(4, "White");
 		hash_map.put(5, "Black");
 
-		// Print the Map
+		// Print the Map 
 		System.out.println("The Original map: " + hash_map);
 
 		// Remove one colour
