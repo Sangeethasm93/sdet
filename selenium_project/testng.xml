@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="JobPortalTest">
+	<test thread-count="5" name="AlchemyjobTest">
+		<parameter name="searchkeyword" value="banking" />
+		<parameter name="username" value="root" />
+		<parameter name="password" value="pa$$w0rd" />
+
+		<classes>
+			<class name="Seleniumproject.Activity1" />
+			<class name="Seleniumproject.Activity2" />
+			<class name="Seleniumproject.Activity3" />
+			<class name="Seleniumproject.Activity4" />
+			<class name="Seleniumproject.Activity5" />
+			<class name="Seleniumproject.Activity6" />
+			<class name="Seleniumproject.Activity7" />
+			<class name="Seleniumproject.Activity8" />
+			<class name="Seleniumproject.Activity9" />
+			
+		</classes>
+	</test> <!-- AlchemyjobTest -->
+</suite> <!-- JobPortalTest -->
