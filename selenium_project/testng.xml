@@ -5,6 +5,7 @@
 		<parameter name="searchkeyword" value="banking" />
 		<parameter name="username" value="root" />
 		<parameter name="password" value="pa$$w0rd" />
+		<parameter name="position" value="testing" />
 
 		<classes>
 			<class name="Seleniumproject.Activity1" />
